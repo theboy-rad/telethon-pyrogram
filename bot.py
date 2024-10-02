@@ -7,14 +7,12 @@ from telethon import TelegramClient
 from telethon.sessions import StringSession
 from telethon.errors import PhoneNumberInvalidError, PhoneCodeInvalidError, PhoneCodeExpiredError, SessionPasswordNeededError, PasswordHashInvalidError
 
-# إعداد المتغيرات
 api_hash = ''
 api_id = 
 token = ''
 dev_id = 
 channel = 'gitv11'
 
-# إنشاء عميل Pyrogram
 app = Client(name='لثى', api_id=api_id, api_hash=api_hash, bot_token=token, in_memory=True)
 
 @app.on_message(filters.command('start') & filters.private)
