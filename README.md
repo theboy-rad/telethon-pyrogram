@@ -28,8 +28,8 @@ To run the bot, just follow these steps:
 4. Run the bot.
 
 ## Connect with Me
-- **Channel**: [Join my programming channel!](https://t.me/gitv11)
-- **Contact Bot**: If you have questions or need assistance, feel free to reach out via [this bot](https://t.me/isegabot).
+- **Channel**: [Join my programming channel!](https://t.me/saiffsom)
+- **Contact Bot**: If you have questions or need assistance, feel free to reach out via [this bot](https://t.me/wegewbot).
 
 Feel free to explore the code and customize it to fit your needs! If you have any questions or suggestions, don’t hesitate to reach out.
 
